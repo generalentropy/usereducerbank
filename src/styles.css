@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.message {
+  height: 30px;
+  font-weight: 100;
+  font-style: italic;
+}
+
+.wd {
+  margin: 0 10px;
+}
